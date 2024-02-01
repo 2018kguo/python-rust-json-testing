@@ -1,1 +1,0 @@
-# python-rust-json-testing
